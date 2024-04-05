@@ -1,10 +1,10 @@
 export const globals = {
   CONFERENCE_DICT: {
-    week: 13,
-    date: '2023-03-27'
+    week: 14,
+    date: '2024-04-01'
   },
   CHAMPIONSHIP_DICT: {
-    week: 15,
-    date: '2023-04-10'
+    week: 16,
+    date: '2024-04-15'
   }
 }

@@ -1,6 +1,6 @@
 {
   "name": "myfgl-globals",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Global variables shared between backend and frontend for MyFGL",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
